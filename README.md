@@ -4,15 +4,16 @@ This is the github repo for Coursework 1 of Module COMP3016, 2D Game developed i
 ## Deadline - 15:00 GMT - November 6th, 2026
 
 ## Game Name
-Dungeon Gauntlet
+Rocket Testpad
 
 ## Description
-Take control of one of the four classes of Hero Warriors, and start battling through randomly generated dungeons to find the exit,
-and reclaim a stolen treasure, which is said to have been hidden in the 5th level, to return to the king of the land for a reward.
+Blast off, Dodge Debris and Rescue Astronauts as you try to get the rocket further than it's ever gone before!
 
 ## Genre
+Side scroller - Arcade Style
 
 ## Synopsis
+
 
 ## Core Gameplay Loop
 
